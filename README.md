@@ -1,6 +1,6 @@
 # Matheus Borro Shirakawa
 
-Currently working on @RedeOK.
+Currently working at @RedeOK.
 
 
 Social Media
