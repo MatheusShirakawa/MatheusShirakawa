@@ -21,7 +21,6 @@ Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">!
     <img align="center" alt="Math-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     <img align="center" alt="Math-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Math-VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Math-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
     <img align="center" alt="Math-Doctrine" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original.svg">
     <img align="center" alt="Math-Bit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
     <img align="right" alt="Math-yoda" width="128" height="128" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
