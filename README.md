@@ -3,9 +3,11 @@
 Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
 
  <div>
-  <a href="https://github.com/MatheusShirakawa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusShirakawa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusShirakawa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MatheusShirakawa/github-stats-transparent">
+  
+    <img height="180em" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/overview.svg"/>
+    <img height="180em" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/languages.svg"/>
+    
   </a>
   </div>
   <div style="display: inline_block"><br>
