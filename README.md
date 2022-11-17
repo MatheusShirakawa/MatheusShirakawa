@@ -3,10 +3,10 @@
 Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
 
  <div>
-  <a href="https://github.com/MatheusShirakawa/github-stats-transparent">
-  
-    <img height="180em" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/overview.svg"/>
-    <img height="180em" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/languages.svg"/>
+  <a href="https://github.com/MatheusShirakawa/github-stats-transparent" target="_blank">
+   
+![](https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/output/generated/languages.svg)
     
   </a>
   </div>
