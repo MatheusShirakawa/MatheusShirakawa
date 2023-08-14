@@ -2,11 +2,6 @@
 
 Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
 
-<a href="https://github.com/matheusshirakawa">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusshirakawa&layout=compact&langs_count=7&theme=dracula"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusshirakawa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
  <div>
   <a href="https://github.com/MatheusShirakawa/github-stats-transparent" target="_blank">
    
