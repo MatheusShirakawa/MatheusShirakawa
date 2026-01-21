@@ -53,5 +53,3 @@
 <a href="https://linkedin.com/in//matheus-borro-shirakawa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/matheus-borro-shirakawa/" height="30" width="40" /></a>
 <a href="https://instagram.com/shirakawa_matheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirakawa_matheus" height="30" width="40" /></a>
 </p>
-
-#
