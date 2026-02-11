@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **matheusshirakawa16@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1ZdlWD4Kx8CGarYLVD8AeUdwC4-ha-eqX/view?usp=sharing)
+- 📄 Know about my experiences [resume link]([https://drive.google.com/file/d/1ZdlWD4Kx8CGarYLVD8AeUdwC4-ha-eqX/view?usp=sharing])
 
 - ⚡ Fun fact **I'm a zelda games fan, and javascript lover**
 
