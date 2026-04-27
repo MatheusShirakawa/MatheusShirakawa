@@ -18,38 +18,28 @@
 
 ### 🧰 Languages and Tools
 
-<p align="left">
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-	<img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,tailwind,css,redux,angular,postgres,git,graphql,html,mysql,sass)](https://skillicons.dev)
 
 #
 
 ### 📊 Stats
 
-<p><img align="left" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/refs/heads/output/generated/languages.svg" alt="matheusshirakawa" /></p>
-
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="matheusshirakawa" /></p>
+<p align="left">
+	<a href="#"><img align="" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/refs/heads/output/generated/languages.svg" alt="matheusshirakawa" /></a>&nbsp;&nbsp;
+	<a href="#"><img align="" src="https://raw.githubusercontent.com/MatheusShirakawa/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="matheusshirakawa" /></a>
+</p>
 
 #
 
 ### 🔗 Socials
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-borro-shirakawa/) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shirakawa_matheus) -->
 <p align="left">
-<a href="https://linkedin.com/in//matheus-borro-shirakawa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/matheus-borro-shirakawa/" height="30" width="40" /></a>
-<a href="https://instagram.com/shirakawa_matheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirakawa_matheus" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matheus-borro-shirakawa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;<a href="https://instagram.com/shirakawa_matheus" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
